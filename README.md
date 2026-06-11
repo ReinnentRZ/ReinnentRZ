@@ -15,11 +15,11 @@ Welcome to my page!
 ## 🛠️ Tech Stack
 
 ### Languages & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Shell_Script-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📊 Statistik GitHub
 
@@ -28,7 +28,7 @@ Welcome to my page!
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reinnentRZ&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" alt="Bahasa Terbanyak" height="160px" />
 </p>
 
-## 📬 Mari Terhubung
+## 📬 Let's Connect!
 
 Saya selalu terbuka untuk kolaborasi proyek, diskusi teknis, atau berbagi ide baru.
 
