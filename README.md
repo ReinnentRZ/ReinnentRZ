@@ -27,14 +27,14 @@
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
 </p>
 
-## 📂 Featured Projects
+<!--## 📂 Featured Projects
 
 * **[jogja-tourism-recommender](https://github.com/reinnent/jogja-tourism-recommender)**
     *A collaborative project focused on building recommendation systems.*
 * **[PBO-Praktikum](https://github.com/reinnent/PBO-Praktikum)**
     *Object-Oriented Programming (OOP) practical repository demonstrating structured coding principles.*
 
-<!--*(Note: Add more specific personal projects here, such as your Streamlit application for the Weighted Product method or automation scripts).* -->
+*(Note: Add more specific personal projects here, such as your Streamlit application for the Weighted Product method or automation scripts).* -->
 
 ## 📊 GitHub Analytics
 
@@ -48,13 +48,13 @@
 I am always open to professional collaborations, discussing infrastructure automation, or sharing innovative technical ideas. 
 
 <p align="center">
-  <a href="https://linkedin.com/in/Reinnent-Rasika-Zahrain">
+  <a href="https://linkedin.com/in/reinnent-rasika-zahrain">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:reinnent@gmail.com">
     <img src="https://img.shields.io/badge/Email-reinnent@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/reinnent">
+  <a href="https://github.com/reinnentRZ">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
