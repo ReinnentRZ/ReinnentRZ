@@ -48,7 +48,7 @@
 I am always open to professional collaborations, discussing infrastructure automation, or sharing innovative technical ideas. 
 
 <p align="center">
-  <a href="https://linkedin.com/in/reinnent-rasika-zahrain">
+  <a href="https://www.linkedin.com/in/reinnent-rasika-zahrain-bb10b5310/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:reinnent@gmail.com">
