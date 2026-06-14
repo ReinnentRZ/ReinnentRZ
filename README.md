@@ -49,17 +49,17 @@ I am always open to professional collaborations, discussing infrastructure autom
   </a>
 </p>
 
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ReinnentRZ&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="Reinnent's GitHub Stats" height="160px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReinnentRZ&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" alt="Top Languages" height="160px" />
+</p>
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/reinnentRZ/reinnentRZ/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/reinnentRZ/reinnentRZ/output/pacman-contribution-graph.svg">
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/reinnentRZ/reinnentRZ/output/pacman-contribution-graph.svg">
   </picture>
-</p>
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ReinnentRZ&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="Reinnent's GitHub Stats" height="160px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReinnentRZ&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" alt="Top Languages" height="160px" />
 </p>
