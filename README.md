@@ -19,11 +19,10 @@
 - 🛠️ Strong interest in Python-based automation and tooling
 - 📚 Currently learning Docker, CI/CD, container security, and cloud technologies
 
-
-
 ## 🛠️ Tech Stack
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=linux" width="48" alt="Linux" />
   <img src="https://skillicons.dev/icons?i=git" width="48" alt="Git" />
   <img src="https://skillicons.dev/icons?i=kubernetes" width="48" alt="Kubernetes" />
   <img src="https://skillicons.dev/icons?i=docker" width="48" alt="Docker" />
@@ -32,10 +31,7 @@
   <img src="https://skillicons.dev/icons?i=python" width="48" alt="Python" />
   <img src="https://skillicons.dev/icons?i=php" width="48" alt="PHP" />
   <img src="https://skillicons.dev/icons?i=java" width="48" alt="Java" />
-  <img src="https://skillicons.dev/icons?i=linux" width="48" alt="" />
 </p>
-
-
 
 ## 📬 Let's Connect
 
@@ -53,16 +49,13 @@ I am always open to professional collaborations, discussing infrastructure autom
   </a>
 </p>
 
-
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/reinnentRZ/reinnentRZ/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/reinnentRZ/reinnentRZ/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/reinnentRZ/reinnentRZ/output/pacman-contribution-graph.svg">
-</picture>
-
-
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/reinnentRZ/reinnentRZ/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/reinnentRZ/reinnentRZ/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/reinnentRZ/reinnentRZ/output/pacman-contribution-graph.svg">
+  </picture>
+</p>
 
 ## 📊 GitHub Analytics
 
@@ -70,4 +63,3 @@ I am always open to professional collaborations, discussing infrastructure autom
   <img src="https://github-readme-stats.vercel.app/api?username=ReinnentRZ&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="Reinnent's GitHub Stats" height="160px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReinnentRZ&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" alt="Top Languages" height="160px" />
 </p>
-
