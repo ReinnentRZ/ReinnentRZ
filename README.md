@@ -19,7 +19,7 @@
 - 🛠️ Strong interest in Python-based automation and tooling
 - 📚 Currently learning Docker, CI/CD, container security, and cloud technologies
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -35,7 +35,7 @@
   <img src="https://skillicons.dev/icons?i=linux" width="48" alt="" />
 </p>
 
----
+
 
 ## 📬 Let's Connect
 
@@ -54,7 +54,7 @@ I am always open to professional collaborations, discussing infrastructure autom
 </p>
 
 
----
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/reinnentRZ/reinnentRZ/output/pacman-contribution-graph-dark.svg">
@@ -62,7 +62,7 @@ I am always open to professional collaborations, discussing infrastructure autom
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/reinnentRZ/reinnentRZ/output/pacman-contribution-graph.svg">
 </picture>
 
----
+
 
 ## 📊 GitHub Analytics
 
@@ -71,8 +71,3 @@ I am always open to professional collaborations, discussing infrastructure autom
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReinnentRZ&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" alt="Top Languages" height="160px" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ReinnentRZ&theme=dark" alt="Reinnent's GitHub Trophies" />
-  </a>
-</p>
